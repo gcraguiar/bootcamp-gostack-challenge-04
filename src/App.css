@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F2F2F2;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-rendering: optimizeLegibility !important; 
+  -webkit-font-smoothing: antialiased !important;
+}
+
+.content {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
